@@ -17,11 +17,12 @@ on automobile sales and provide a visual representation of historical trends.
 **Dataset**
 
 The dataset used for this project contains information about automobile sales over several years, including key features like:
-Recession: A binary variable indicating recession perion; 1 means it was recession, 0 means it was normal.
-Automobile_Sales: The number of vehicles sold during the period.
-Month: Month of the observation extracted from Date.
-Year: Year of the observation extracted from Date.
-Economic indicators (e.g., GDP, unemployment rates)
+
+- Recession: A binary variable indicating recession perion; 1 means it was recession, 0 means it was normal.
+- Automobile_Sales: The number of vehicles sold during the period.
+- Month: Month of the observation extracted from Date.
+- Year: Year of the observation extracted from Date.
+- Economic indicators (e.g., GDP, unemployment rates)
 
 The dataset can be found in the datasets/ folder of this repository.
 
